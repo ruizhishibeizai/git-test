@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello,git");
         System.out.println("忽略文件");
         System.out.println("忽略文件");
+        System.out.println("忽略文件2");
     }
 }
