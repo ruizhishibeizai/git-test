@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("忽略文件");
         System.out.println("忽略文件2");
         System.out.println("master test");
+        System.out.println("hot-fix test");
     }
 }
